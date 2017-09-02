@@ -1,0 +1,1 @@
+It's based on an example coming from https://www.aspsnippets.com/Articles/Upload-multiple-files-with-ASPNet-45-FileUpload-control-in-Visual-Studio-2012-and-2013.aspx

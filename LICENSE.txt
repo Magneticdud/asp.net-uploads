@@ -1,0 +1,2 @@
+The code samples and API available at www.aspsnippets.com are available absolutely free. You are free to use it for commercial as well as non-commercial use at your own risk, but you cannot use it for posting on blogs or other tutorial websites similar to www.aspsnippets.com without giving reference link to the original article.
+All the code samples and API provided by the authors are solely their creation and neither the author nor the site are responsible if it does not work as intended. 
